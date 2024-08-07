@@ -1,0 +1,1 @@
+This automation framework leverages Playwright to perform end-to-end testing of the DemoBlaze website. It ensures that all critical functionalities and user interactions are thoroughly tested to maintain high quality and reliability.
